@@ -1,5 +1,7 @@
 # Cardamom Git Demo
 
-Hello and welcome to my amazing repo
+Hello and welcome to my amazing and very useful repo
 
-READ THE README
+READ THE README!!!!!!!!!
+
+:)))
